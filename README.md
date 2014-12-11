@@ -1,4 +1,0 @@
-Kodzenie
-========
-
-Kodzenie
